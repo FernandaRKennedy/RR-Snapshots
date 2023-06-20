@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    alt="Fernanda Reis Kennedy GitHub Profile Picture"
+    className="card-img-top"
+    src="https://github.com/Fhttps://avatars.githubusercontent.com/u/97136600?s=400&u=fda5322c56799759866a6e48a3b3ef84e73776d9&v=4"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Card Title
+    </div>
+    <p
+      className="card-text"
+    >
+      Some quick example text to build on the card title and make up the bulk of the card's content.
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go somewhere
+    </button>
+  </div>
+</div>
+`;
